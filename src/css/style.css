@@ -1,0 +1,45 @@
+.body{
+    background: fixed;
+}
+.header{
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+.header, span{
+    display: block;
+
+}
+.form-lowsa {
+    border: 2px solid black;
+   
+}
+.text-form{
+    text-align: center;
+    border: 2px solid;
+}
+.foto {
+    border: 2px solid;
+ display: inline-block;
+ text-align: center;
+ width: 145px;
+}
+.form input {
+margin-bottom: 12px;
+}
+.from-asd{
+    padding: 35px, 20px;
+    font-size: 20;
+    font-weight: 900;
+
+}
+.from-btn{
+    margin: 10px 3px;
+}
+.form-asd input {
+    margin-bottom: 50px;
+    
+}
+.feature{
+    margin-top: 60px;
+}
